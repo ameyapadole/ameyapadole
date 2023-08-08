@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ameyapadole
-- 👀 I’m interested in software development, Cybersecurity, Android and iOS development.
-- 🌱 I’m currently learning Swift UI, React.
-- 💞️ I’m looking to collaborate on cybersecurity related projects.
+- 👀 I’m interested in software development, Cybersecurity, Android Development
 
 <!---
 ameyapadole/ameyapadole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
