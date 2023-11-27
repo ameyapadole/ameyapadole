@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ameyapadole
-- 👀 I’m interested in software development, Cybersecurity, Android Development
+- 👀 I’m a Full Stack Dev with experience in MERN, T3, Java, Python.
 
 <!---
 ameyapadole/ameyapadole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
