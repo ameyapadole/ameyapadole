@@ -10,7 +10,8 @@
    - 🌐 HTMX
    - 🚀 Bun
    - 🐹 Go
-   - 📚 Hypermedia Systems by Carson Gross, Adam Stepinski, Deniz Akşimşek
+   - 📚 Hypermedia Systems by Carson Gross, Adam Stepinski, Deniz Akşimşek.
+
 I'm working on various projects to showcase my skills and make my GitHub portfolio stand out.
 
 ♟️ Outside of coding, I'm an avid chess player. Challenge me on LiChess @Ameya26!
