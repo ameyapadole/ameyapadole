@@ -26,7 +26,7 @@ I'm working on various projects to showcase my skills and make my GitHub portfol
 
 📢 PS: If you're a hiring manager, don't be shy, let's connect!  😄
 
-Alas, I leave you with this - *How do you know you are real? That this is real?*
+
 
 <!---
 ameyapadole/ameyapadole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
