@@ -11,6 +11,8 @@
    - 🚀 Bun
    - 🐹 Go
    - 📚 Hypermedia Systems by Carson Gross, Adam Stepinski, Deniz Akşimşek.
+     
+In my free time I do leetcode. *Joke*
 
 I'm working on various projects to showcase my skills and make my GitHub portfolio stand out.
 
