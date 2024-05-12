@@ -1,6 +1,6 @@
 👋 Hi there, I'm @ameyapadole! 
 
-Edit: Visit https://www.ameyasdomain.xyz
+Edit: Visit [https://www.ameyasdomain.xyz](https://ameyasdomain.xyz/)
 
 🌐 I’m a Full Stack Developer with a passion for crafting dynamic web experiences. My expertise includes:
    - 🧩 MERN Stack
